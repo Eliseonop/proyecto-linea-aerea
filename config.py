@@ -1,0 +1,1 @@
+IGV_PERCENT = 18
